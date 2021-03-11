@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![afewnotes's GitHub stats](https://github-readme-stats.vercel.app/api?username=afewnotes)](https://github.com/anuraghazra/github-readme-stats)
+[![afewnotes's GitHub stats](https://github-readme-stats.vercel.app/api?username=afewnotes&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afewnotes)](https://github.com/anuraghazra/github-readme-stats)
